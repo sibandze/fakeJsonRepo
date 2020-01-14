@@ -1,147 +1,148 @@
 {
+	"data":{
 	"PremierLeagueTeams":
-	[
-		{
-			"id": 1,
-			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	11,
-			"D": 	2,
-			"L": 	1,
-			"GF": 	39,
-			"GA": 	8 
-		},{
-			"id": 2,
-			"team_name": "Mbabane Swallows",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	13,
-			"W": 	9,
-			"D": 	3,
-			"L": 	1,
-			"GF": 	24,
-			"GA": 	6 
-		},{
-			"id": 3,
-			"team_name": "Royal Leopards",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	8,
-			"D": 	4,
-			"L": 	2,
-			"GF": 	19,
-			"GA": 	9 
-		},{
-			"id": 4,
-			"team_name": "Moneni Pirates",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	7,
-			"D": 	4,
-			"L": 	3,
-			"GF": 	19,
-			"GA": 	12 
-		},{
-			"id": 5,
-			"team_name": "Green Mamba",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	6,
-			"D": 	2,
-			"L": 	6,
-			"GF": 	20,
-			"GA": 	13 
-		},{
-			"id": 6,
-			"team_name": "Highlanders",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	3,
-			"D": 	9,
-			"L": 	2,
-			"GF": 	9,
-			"GA": 	8 
-		},{
-			"id": 7,
-			"team_name": "Denver",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	4,
-			"D": 	5,
-			"L": 	5,
-			"GF": 	13,
-			"GA": 	17 
-		},{
-			"id": 8,
-			"team_name": "Manzini Wanderers",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	4,
-			"D": 	4,
-			"L": 	6,
-			"GF": 	17,
-			"GA": 	24 
-		},{
-			"id": 9,
-			"team_name": "Milling Hotspurs",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	3,
-			"D": 	6,
-			"L": 	5,
-			"GF": 	12,
-			"GA": 	18 
-		},{
-			"id": 10,
-			"team_name": "Tambuti",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	13,
-			"W": 	2,
-			"D": 	8,
-			"L": 	3,
-			"GF": 	16,
-			"GA": 	25 
-		},{
-			"id": 11,
-			"team_name": "Mhlume Peacemakers",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	3,
-			"D": 	4,
-			"L": 	7,
-			"GF": 	13,
-			"GA": 	21 
-		},{
-			"id": 12,
-			"team_name": "Manzini Sea Birds",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	3,
-			"D": 	4,
-			"L": 	7,
-			"GF": 	13,
-			"GA": 	24 
-		},{
-			"id": 13,
-			"team_name": "Black Swallows",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	3,
-			"D": 	1,
-			"L": 	10,
-			"GF": 	17,
-			"GA": 	33 
-		},{
-			"id": 14,
-			"team_name": "Malanti Chiefs",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
-			"P": 	14,
-			"W": 	3,
-			"D": 	0,
-			"L": 	11,
-			"GF": 	9,
-			"GA": 	22 
-		}
-	]
-	
+		[
+			{
+				"id": 1,
+				"team_name": "Young Buffaloes",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	11,
+				"D": 	2,
+				"L": 	1,
+				"GF": 	39,
+				"GA": 	8 
+			},{
+				"id": 2,
+				"team_name": "Mbabane Swallows",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	13,
+				"W": 	9,
+				"D": 	3,
+				"L": 	1,
+				"GF": 	24,
+				"GA": 	6 
+			},{
+				"id": 3,
+				"team_name": "Royal Leopards",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	8,
+				"D": 	4,
+				"L": 	2,
+				"GF": 	19,
+				"GA": 	9 
+			},{
+				"id": 4,
+				"team_name": "Moneni Pirates",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	7,
+				"D": 	4,
+				"L": 	3,
+				"GF": 	19,
+				"GA": 	12 
+			},{
+				"id": 5,
+				"team_name": "Green Mamba",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	6,
+				"D": 	2,
+				"L": 	6,
+				"GF": 	20,
+				"GA": 	13 
+			},{
+				"id": 6,
+				"team_name": "Highlanders",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	3,
+				"D": 	9,
+				"L": 	2,
+				"GF": 	9,
+				"GA": 	8 
+			},{
+				"id": 7,
+				"team_name": "Denver",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	4,
+				"D": 	5,
+				"L": 	5,
+				"GF": 	13,
+				"GA": 	17 
+			},{
+				"id": 8,
+				"team_name": "Manzini Wanderers",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	4,
+				"D": 	4,
+				"L": 	6,
+				"GF": 	17,
+				"GA": 	24 
+			},{
+				"id": 9,
+				"team_name": "Milling Hotspurs",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	3,
+				"D": 	6,
+				"L": 	5,
+				"GF": 	12,
+				"GA": 	18 
+			},{
+				"id": 10,
+				"team_name": "Tambuti",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	13,
+				"W": 	2,
+				"D": 	8,
+				"L": 	3,
+				"GF": 	16,
+				"GA": 	25 
+			},{
+				"id": 11,
+				"team_name": "Mhlume Peacemakers",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	3,
+				"D": 	4,
+				"L": 	7,
+				"GF": 	13,
+				"GA": 	21 
+			},{
+				"id": 12,
+				"team_name": "Manzini Sea Birds",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	3,
+				"D": 	4,
+				"L": 	7,
+				"GF": 	13,
+				"GA": 	24 
+			},{
+				"id": 13,
+				"team_name": "Black Swallows",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	3,
+				"D": 	1,
+				"L": 	10,
+				"GF": 	17,
+				"GA": 	33 
+			},{
+				"id": 14,
+				"team_name": "Malanti Chiefs",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 	14,
+				"W": 	3,
+				"D": 	0,
+				"L": 	11,
+				"GF": 	9,
+				"GA": 	22 
+			}
+		]
+	}
 }
