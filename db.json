@@ -1,7 +1,7 @@
 {
 	"status": "ok",
 	"error":false,
-	"data":[
+	"data":{
 		"PremierLeagueTeams":[
 			{
 				"id": 1,
@@ -145,5 +145,5 @@
 				"GA": 	22 
 			}
 		]
-	]
+	}
 }
