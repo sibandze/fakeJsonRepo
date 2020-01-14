@@ -142,6 +142,46 @@
 				"L": 11,
 				"GF": 9,
 				"GA": 22
+			}, {
+				"id": 3,
+				"team_name": "Royal Leopards",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 14,
+				"W": 8,
+				"D": 4,
+				"L": 2,
+				"GF": 19,
+				"GA": 9
+			}, {
+				"id": 4,
+				"team_name": "Moneni Pirates",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 14,
+				"W": 7,
+				"D": 4,
+				"L": 3,
+				"GF": 19,
+				"GA": 12
+			}, {
+				"id": 5,
+				"team_name": "Green Mamba",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 14,
+				"W": 6,
+				"D": 2,
+				"L": 6,
+				"GF": 20,
+				"GA": 13
+			}, {
+				"id": 6,
+				"team_name": "Highlanders",
+				"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+				"P": 14,
+				"W": 3,
+				"D": 9,
+				"L": 2,
+				"GF": 9,
+				"GA": 8
 			}]
 		}
 	}
