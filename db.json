@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
@@ -13,7 +13,7 @@
 		{
 			"id": 2,
 			"team_name": "Mbabane Swallows",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
 			"W": 9,
 			"D": 3,
 			"L": 1,
@@ -23,7 +23,7 @@
 		{
 			"id": 3,
 			"team_name": "Royal Leopards",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
 			"W": 8,
 			"D": 4,
 			"L": 2,
@@ -33,7 +33,7 @@
 		{
 			"id": 4,
 			"team_name": "Moneni Pirates",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 7,
 			"D": 4,
 			"L": 3,
@@ -43,7 +43,7 @@
 		{
 			"id": 5,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
@@ -53,7 +53,7 @@
 		{
 			"id": 6,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
@@ -63,7 +63,7 @@
 		{
 			"id": 7,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
@@ -73,7 +73,7 @@
 		{
 			"id": 8,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
@@ -83,7 +83,7 @@
 		{
 			"id": 9,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
@@ -93,7 +93,7 @@
 		{
 			"id": 10,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
@@ -103,7 +103,7 @@
 		{
 			"id": 11,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
@@ -113,7 +113,7 @@
 		{
 			"id": 12,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
@@ -123,18 +123,17 @@
 		{
 			"id": 13,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
 			"GF": 39,
 			"GA": 8 
-		}
-		,
+		},
 		{
 			"id": 13,
 			"team_name": "Young Buffaloes",
-			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+			"logo": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
 			"W": 11,
 			"D": 2,
 			"L": 1,
