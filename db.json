@@ -3,7 +3,7 @@
 	"error":false,
 	"data":{
 		"PremierLeagueTeams":
-		[
+[
 			{
 				"id": 1,
 				"team_name": "Young Buffaloes",
